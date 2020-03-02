@@ -1,0 +1,7 @@
+[
+  { "name": "Karen", "gender": "female" },
+  { "name": "Linda", "gender": "female" },
+  { "name": "Joe", "gender": "male" },
+  { "name": "Jack", "saying": "male" },
+  { "name": "Billy", "saying": "female" }
+]
