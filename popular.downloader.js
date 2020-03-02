@@ -22,6 +22,9 @@ rp('https://reddit.com/r/popular.json')
                     if(err) console.log(err)
                 })
             })
+            .catch((err) => {
+                console.log(err);
+            })
         }
         //console.log(path.extname(item.url))
     })
