@@ -1,5 +1,5 @@
-let path = require('path');
-let fs = require('fs');
+const path = require('path');
+const fs = require('fs');
 
 let dataPath = path.join(__dirname, '../chirps.json');
 
